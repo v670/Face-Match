@@ -1,0 +1,15 @@
+[2021-12-05 19:37:52,196: INFO: 01_generate_img_pkl]: >>>>> stage_01 started
+[2021-12-05 19:37:52,228: INFO: all_utils]: Directory is created at artifacts\pickle_format_data
+[2021-12-05 19:37:52,525: INFO: 01_generate_img_pkl]: Total actress are: 100
+[2021-12-05 19:37:52,525: INFO: 01_generate_img_pkl]: Total actress images: 8664
+[2021-12-05 19:37:52,540: INFO: 01_generate_img_pkl]: stage_01 completed!>>>>>
+[2021-12-05 20:18:43,632: INFO: 01_generate_img_pkl]: >>>>> stage_01 started
+[2021-12-05 20:18:43,663: INFO: all_utils]: Directory is created at artifacts\pickle_format_data
+[2021-12-05 20:18:51,980: INFO: 01_generate_img_pkl]: Total actress are: 100
+[2021-12-05 20:18:51,981: INFO: 01_generate_img_pkl]: Total actress images: 8664
+[2021-12-05 20:18:51,993: INFO: 01_generate_img_pkl]: stage_01 completed!>>>>>
+[2021-12-05 21:08:12,923: INFO: 01_generate_img_pkl]: >>>>> stage_01 started
+[2021-12-05 21:08:12,958: INFO: all_utils]: Directory is created at artifacts\pickle_format_data
+[2021-12-05 21:08:20,153: INFO: 01_generate_img_pkl]: Total actress are: 100
+[2021-12-05 21:08:20,153: INFO: 01_generate_img_pkl]: Total actress images: 8664
+[2021-12-05 21:08:20,169: INFO: 01_generate_img_pkl]: stage_01 completed!>>>>>
